@@ -16,3 +16,7 @@ You can click the Preview link to take a look at your changes.
   - Portfolio development
   - Google's Data Analytics Certification
   - Reactive website development
+  
+  
+- Developer Updates (as of 10/23/2022): 
+I'm working towards completing the Google Data Analytics Professional Certification. I'm hopefully this gives me another step forward in being a more competitive candiate. So far I have learned about the data analysis process, the data life cycle, data analytical skills, the various toolsets I will be learning (R, SQL, spreadsheets, tableau), and the lessons I will be learning. It's not that bad and I have almost completed the first of 8 courses. It's my understanding that less than 10% of people who start finish, but I have a knack for sticking these sort of things out. I will gladly do a humble brag or two upon completetion!
